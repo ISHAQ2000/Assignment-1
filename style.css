@@ -1,0 +1,138 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.text-color{
+    color: orange;
+}
+.first-part{
+    border-left: 5px solid rgb(255, 81, 0);
+    padding-left: 10px;
+    border-radius: 5px;
+
+}
+
+button{ 
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    background-image: linear-gradient(rgb(218, 114, 54),tomato);
+    color: white;
+    font-weight: 700;
+    border: 0px;
+
+}
+.parent-1{
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    padding-left: 150px;
+}
+.right-div img{
+    width: 300px;
+}
+
+#second-part{
+    padding-right: 20px;
+}
+span{
+    color: orange;
+}
+#second-heading{
+ text-align: center;
+}
+.parernt-2{
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    padding-left: 100px;
+    
+}
+.child-1 img{
+    width: 200px;
+    
+}
+.child-1{
+    border-radius: 10px;
+    background-color: rgb(229, 249, 250);
+    padding-left: 10px;
+    margin: 20px 20px;
+    width: 300px;
+}
+.child-2 img{
+    width: 200px;
+    
+}
+.child-2{
+    border-radius: 10px;
+    background-color: rgb(240, 224, 207);
+    padding-left: 10px;
+    margin: 20px 20px;
+    width: 300px;
+}
+.child-3 img{
+    width: 200px;
+}
+.child-3{
+    border-radius: 10px;
+    background-color: rgb(236, 233, 203);
+    padding-left: 10px;
+    margin: 20px 20px;
+    width: 300px;
+}
+.section-2{
+    display: flex;
+    width: 90%;
+    margin:  auto;
+    margin-top: 100px;
+
+}
+.sec-2 img{
+    width: 400px;
+}
+
+#right-padding{
+    padding-left: 50px;
+    width: 400px;
+}
+#left-img{
+    width: 80px;
+    padding-top: 100px;  
+}
+.sec-2{
+    display: flex;
+
+}
+#right-img{
+    width: 150px;
+}
+.section-3{
+    display: flex;
+
+}
+.section-3{
+    display: flex;
+    width: 90%;
+    margin:  auto;
+    margin-top: 100px;
+    
+}
+.right img{
+    width: 500px;
+    padding-left: 80px;
+}
+.left{
+    width: 400px;
+    padding-left: 50px;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    
+}
+.section{
+    margin-bottom: 100px;
+}
