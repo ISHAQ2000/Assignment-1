@@ -1,6 +1,9 @@
 body{
     margin: 0px;
     padding: 0px;
+    background-color: black;
+    color: white;
+    font-family: 'Poppins', sans-serif;
 }
 .text-color{
     color: orange;
@@ -35,9 +38,10 @@ button{
 
 #second-part{
     padding-right: 20px;
+    width: 500px;
 }
 span{
-    color: orange;
+    color:orange;
 }
 #second-heading{
  text-align: center;
@@ -47,6 +51,7 @@ span{
     width: 90%;
     margin: 0 auto;
     padding-left: 100px;
+    color: black;
     
 }
 .child-1 img{
@@ -56,9 +61,10 @@ span{
 .child-1{
     border-radius: 10px;
     background-color: rgb(229, 249, 250);
-    padding-left: 10px;
+    padding-left: 15px;
     margin: 20px 20px;
     width: 300px;
+    padding-right: 15px;
 }
 .child-2 img{
     width: 200px;
@@ -67,9 +73,11 @@ span{
 .child-2{
     border-radius: 10px;
     background-color: rgb(240, 224, 207);
-    padding-left: 10px;
+    padding-left: 15px;
     margin: 20px 20px;
     width: 300px;
+    padding-bottom: 30px;
+    padding-right: 15px;
 }
 .child-3 img{
     width: 200px;
@@ -77,9 +85,11 @@ span{
 .child-3{
     border-radius: 10px;
     background-color: rgb(236, 233, 203);
-    padding-left: 10px;
+    padding-left: 15px;
     margin: 20px 20px;
     width: 300px;
+    padding-right: 15px;
+    padding-bottom: 10px;
 }
 .section-2{
     display: flex;
@@ -90,10 +100,12 @@ span{
 }
 .sec-2 img{
     width: 400px;
+    border-radius: 20px 20px;
+    
 }
 
 #right-padding{
-    padding-left: 50px;
+    padding-left: 100px;
     width: 400px;
 }
 #left-img{
@@ -129,10 +141,17 @@ span{
 
 footer{
     text-align: center;
-    background-color: black;
+    background-color:black;
     color: white;
+
     
 }
 .section{
     margin-bottom: 100px;
+}
+#white-font{
+    color: white;
+}
+#whi-bor{
+    border: 5px solid white;
 }
